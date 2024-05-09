@@ -1,4 +1,4 @@
-# Insurance Data Analysis
+# Analysis of Insurance Costs in US 
 
 ## Overview
 This project analyzes health insurance data to understand the relationships between various factors, such as age, sex, BMI, smoking habits, and region, and their impact on insurance charges. The data is sourced from insurance.csv from kaggle.
