@@ -1,7 +1,7 @@
 # Insurance Data Analysis
 
 ## Overview
-This project analyzes health insurance data to understand the relationships between various factors, such as age, sex, BMI, smoking habits, and region, and their impact on insurance charges. The data is sourced from insurance.csv.
+This project analyzes health insurance data to understand the relationships between various factors, such as age, sex, BMI, smoking habits, and region, and their impact on insurance charges. The data is sourced from insurance.csv from kaggle.
 
 ## Data Description
 The dataset contains the following columns:
